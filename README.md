@@ -1,4 +1,4 @@
-## Hola 👋
+## Hi 👋
 
 - 🔭 I’m currently working on [CrateOS](https://www.crateos.com)
 - 🌱 I’m currently learning [Nuxt](https://nuxt.com/).
