@@ -1,6 +1,5 @@
 ## Hi 👋
 
-- 🔭 I’m currently working on [CrateOS](https://www.crateos.com)
 - 🌱 I’m currently learning [Nuxt](https://nuxt.com/).
 - 📚 I'm currently reading [Simply Put](https://www.amazon.com/Simply-Put-Messages-Win_and-Design/dp/1523004681)
 
