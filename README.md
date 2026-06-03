@@ -1,7 +1,8 @@
-## Hi 👋
+## Hi I'm Cesar 👋
 
-- 🌱 I’m currently learning [Nuxt](https://nuxt.com/).
-- 📚 I'm currently reading [Simply Put](https://www.amazon.com/Simply-Put-Messages-Win_and-Design/dp/1523004681)
+- 🧰 I’m currently working on [Psoda](https://psoda.oss.limitlis.com/) - A dependency-free & open-source tooltip and dialog library for Vue.
+- 📆 I also working on [You-TZ](https://www.you-tz.com/) - a tool to help developers debug date & timezone issues.
+
 
 <!--
 **limitlis/limitlis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
